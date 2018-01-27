@@ -12,3 +12,5 @@ function setBestCustomer() {
 function overwriteBestCustomer (newFavorite) {
   bestCustomer = newFavorite;
 }
+
+const leastFavoriteCustomer = 'who's this';
