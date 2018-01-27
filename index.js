@@ -13,4 +13,4 @@ function overwriteBestCustomer (newFavorite) {
   bestCustomer = newFavorite;
 }
 
-const leastFavoriteCustomer = "debbie downer";
+const leastFavoriteCustomer = "negative nancy";
